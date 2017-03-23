@@ -1,0 +1,3 @@
+<project name="gittest" basedir="." default="do-nothing">
+	<target name="do-nothing"/>
+</project>
